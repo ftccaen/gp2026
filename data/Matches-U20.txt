@@ -1,0 +1,14 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "GROSDENT Maxim (wam)", "", "-", "", "SORET Louis (hen)", " ", "", "", "", ""],
+["01 - Poule 01", "R2", "M01", "AUSSET Quentin (chp)", "", "-", "", "GROSDENT Maxim (wam)", " ", "", "", "", ""],
+["01 - Poule 01", "R3", "M01", "SORET Louis (hen)", "", "-", "", "AUSSET Quentin (chp)", " ", "", "", "", ""],
+["02 - Poule 02", "R1", "M01", "MARAIN Benjamin (hen)", "", "-", "", "MIDOUX Rafaël (hen)", " ", "", "", "", ""],
+["02 - Poule 02", "R1", "M02", "GROSDENT Robin (wam)", "", "-", "", "DIRICK Noah (wam)", " ", "", "", "", ""],
+["02 - Poule 02", "R2", "M01", "MARAIN Benjamin (hen)", "", "-", "", "DIRICK Noah (wam)", " ", "", "", "", ""],
+["02 - Poule 02", "R2", "M02", "MIDOUX Rafaël (hen)", "", "-", "", "GROSDENT Robin (wam)", " ", "", "", "", ""],
+["02 - Poule 02", "R3", "M01", "GROSDENT Robin (wam)", "", "-", "", "MARAIN Benjamin (hen)", " ", "", "", "", ""],
+["02 - Poule 02", "R3", "M02", "DIRICK Noah (wam)", "", "-", "", "MIDOUX Rafaël (hen)", " ", "", "", "", ""],
+["03 - 1/2 FINALES", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""],
+["03 - 1/2 FINALES", " ", "M02", "", "", "-", "", "", "", "", "-", "", ""],
+["04 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+]}

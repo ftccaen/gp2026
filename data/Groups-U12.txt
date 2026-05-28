@@ -1,0 +1,6 @@
+﻿{"data": [
+["Poule 01", "1", "CHAPMAN Hadley (kiv)", "9999", "Kent Invicta TFC"],
+["Poule 01", "2", "GALICHET Leeroy ()", "9999", "BOSS"],
+["Poule 01", "3", "LEGRAND Mathéo (hen)", "9999", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "4", "BLAIRVACQ Nicola (hen)", "9999", "Avenir Subbuteo Hennuyer"]
+]}

@@ -1,0 +1,6 @@
+﻿{"data": [
+["","CHAPMAN Hadley (kiv)", "16", "ENG", "Kent Invicta TFC"],
+["","GALICHET Leeroy ()", "9999", "FRA", "BOSS"],
+["","BLAIRVACQ Nicola (hen)", "22", "BEL", "Avenir Subbuteo Hennuyer"],
+["","LEGRAND Mathéo (hen)", "67", "BEL", "Avenir Subbuteo Hennuyer"]
+]}

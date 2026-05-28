@@ -1,0 +1,6 @@
+﻿{"data": [
+["","HERBAUT Audrey (chp)", "2", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","LINQUERCQ-RIVIÈRE Irène ()", "16", "FRA", "BOSS"],
+["","POUPART Lea (com)", "10", "FRA", "Celtic Combourg CFT"],
+["","VERHOEVEN Lulani (wam)", "46", "BEL", "Wamme SC"]
+]}

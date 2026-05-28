@@ -1,0 +1,9 @@
+﻿{"data": [
+["Poule 01", "1", "SORET Louis (hen)", "9999", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "2", "AUSSET Quentin (chp)", "9999", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "3", "GROSDENT Maxim (wam)", "9999", "Wamme SC"],
+["Poule 02", "1", "MARAIN Benjamin (hen)", "9999", "Avenir Subbuteo Hennuyer"],
+["Poule 02", "2", "MIDOUX Rafaël (hen)", "9999", "Avenir Subbuteo Hennuyer"],
+["Poule 02", "3", "GROSDENT Robin (wam)", "9999", "Wamme SC"],
+["Poule 02", "4", "DIRICK Noah (wam)", "9999", "Wamme SC"]
+]}

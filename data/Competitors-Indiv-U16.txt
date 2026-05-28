@@ -1,0 +1,8 @@
+﻿{"data": [
+["","GROSDENT Sophia (wam)", "44", "BEL", "Wamme SC"],
+["","GROSDENT Robin (wam)", "9999", "BEL", "Wamme SC"],
+["","CHAPMAN Hadley (kiv)", "24", "ENG", "Kent Invicta TFC"],
+["","GALICHET Leeroy ()", "9999", "FRA", "BOSS"],
+["","BLAIRVACQ Nicola (hen)", "9999", "BEL", "Avenir Subbuteo Hennuyer"],
+["","LEGRAND Mathéo (hen)", "9999", "BEL", "Avenir Subbuteo Hennuyer"]
+]}

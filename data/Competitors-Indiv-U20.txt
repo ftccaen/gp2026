@@ -1,0 +1,9 @@
+﻿{"data": [
+["","GROSDENT Maxim (wam)", "40", "BEL", "Wamme SC"],
+["","DIRICK Noah (wam)", "22", "BEL", "Wamme SC"],
+["","AUSSET Quentin (chp)", "12", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","MARAIN Benjamin (hen)", "6", "BEL", "Avenir Subbuteo Hennuyer"],
+["","SORET Louis (hen)", "5", "FRA", "Avenir Subbuteo Hennuyer"],
+["","MIDOUX Rafaël (hen)", "8", "FRA", "Avenir Subbuteo Hennuyer"],
+["","GROSDENT Robin (wam)", "9999", "BEL", "Wamme SC"]
+]}

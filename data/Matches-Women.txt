@@ -1,0 +1,9 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "HERBAUT Audrey (chp)", "", "-", "", "VERHOEVEN Lulani (wam)", " ", "", "", "", ""],
+["01 - Poule 01", "R1", "M02", "POUPART Lea (com)", "", "-", "", "LINQUERCQ-RIVIÈRE Irène ()", " ", "", "", "", ""],
+["01 - Poule 01", "R2", "M01", "LINQUERCQ-RIVIÈRE Irène ()", "", "-", "", "HERBAUT Audrey (chp)", " ", "", "", "", ""],
+["01 - Poule 01", "R2", "M02", "VERHOEVEN Lulani (wam)", "", "-", "", "POUPART Lea (com)", " ", "", "", "", ""],
+["01 - Poule 01", "R3", "M01", "HERBAUT Audrey (chp)", "", "-", "", "POUPART Lea (com)", " ", "", "", "", ""],
+["01 - Poule 01", "R3", "M02", "LINQUERCQ-RIVIÈRE Irène ()", "", "-", "", "VERHOEVEN Lulani (wam)", " ", "", "", "", ""],
+["02 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+]}

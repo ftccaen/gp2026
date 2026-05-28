@@ -1,0 +1,6 @@
+﻿{"data": [
+["Poule 01", "1", "HERBAUT Audrey (chp)", "9999", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "2", "POUPART Lea (com)", "9999", "Celtic Combourg CFT"],
+["Poule 01", "3", "LINQUERCQ-RIVIÈRE Irène ()", "9999", "BOSS"],
+["Poule 01", "4", "VERHOEVEN Lulani (wam)", "9999", "Wamme SC"]
+]}
