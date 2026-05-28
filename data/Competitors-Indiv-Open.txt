@@ -1,0 +1,18 @@
+﻿{"data": [
+["","Roger Trouillard (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Serge Leroy (puy)", "422", "FRA", "CFT Puylaurens"],
+["","Rémy Lours (cae)", "87", "FRA", "FTC Caen"],
+["","Nino Di Giannantonio ()", "9999", "ARG", "AS Rosario 2008"],
+["","Bruno Di Paolo Sr. ()", "9999", "ARG", "AS Rosario 2008"],
+["","Paolo Ferrara ()", "9999", "ARG", "AS Rosario 2008"],
+["","Gonzalo Gómez ()", "9999", "ARG", "AS Rosario 2008"],
+["","Leonardo Mario Juanto ()", "9999", "ARG", "AS Rosario 2008"],
+["","Toribio Lambertucci ()", "9999", "ARG", "AS Rosario 2008"],
+["","Matías Lioy ()", "9999", "ARG", "AS Rosario 2008"],
+["","Nicolás Lioy ()", "9999", "ARG", "AS Rosario 2008"],
+["","Claudio Murcilli ()", "9999", "ARG", "AS Rosario 2008"],
+["","Renato Murcilli ()", "9999", "ARG", "AS Rosario 2008"],
+["","Ricardo Roberti ()", "9999", "ARG", "AS Rosario 2008"],
+["","Edgar Shoenfeld ()", "9999", "ARG", "AS Rosario 2008"],
+["","Fernando Tortelli ()", "9999", "ARG", "AS Rosario 2008"]
+]}

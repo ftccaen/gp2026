@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Boucle de la Seine Subbutéo (FRA)"],
+["Poule 01", "2", "Paris Université Club (FRA)"],
+["Poule 01", "3", "FTC Saint-Symphorien-sur-Coise (FRA)"],
+["Poule 01", "4", "Celtic Combourg CFT (FRA)"],
+["Poule 01", "5", "Elan Subbutéo Club de Champs-sur-Marne (FRA)"],
+["Poule 01", "6", "Guebwiller Alsace Subbuteo Club (FRA)"],
+["Poule 01", "7", "Union Subbuteo Prignac Puylaurens (FRA)"],
+["Poule 01", "8", "FTC Caen (FRA)"]
+]}
