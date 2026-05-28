@@ -20,14 +20,63 @@
 </head>
 <body>
 <div class="container-fluid"><div class="row"><ul class="nav nav-tabs" role="tablist">
-<li class="active"><a href="#tab-TableOfData-Teams-Teams" role="tab" data-toggle="tab">Teams-Teams</a></li>
+<li class="active"><a href="#tab-TableOfData-Indiv-Open" role="tab" data-toggle="tab">Players-Open</a></li>
+<li><a href="#tab-TableOfData-Indiv-Veterans" role="tab" data-toggle="tab">Players-Veterans</a></li>
+<li><a href="#tab-TableOfData-Indiv-Women" role="tab" data-toggle="tab">Players-Women</a></li>
+<li><a href="#tab-TableOfData-Indiv-U20" role="tab" data-toggle="tab">Players-U20</a></li>
+<li><a href="#tab-TableOfData-Indiv-U16" role="tab" data-toggle="tab">Players-U16</a></li>
+<li><a href="#tab-TableOfData-Indiv-U12" role="tab" data-toggle="tab">Players-U12</a></li>
+<li><a href="#tab-TableOfData-Indiv-Team_U16" role="tab" data-toggle="tab">Players-Team_U16</a></li>
+<li><a href="#tab-TableOfData-Indiv-Team_U12" role="tab" data-toggle="tab">Players-Team_U12</a></li>
 </ul>
 Hide/Show column:<br><button type="button" class="site-btn toggle-vis" data-column="2">Classement</button><button type="button" class="site-btn toggle-vis" data-column="3">Nation</button><button type="button" class="site-btn toggle-vis" data-column="4">Club</button>
 <div class="tab-content">
-<div id="tab-TableOfData-Teams-Teams" role="tabpanel" class="tab-pane active">
-<table id="TableOfData-Teams-Teams" class="display compact dataTableTeams" cellspacing="0" width="100%" data-ajax="data/Competitors-Teams-Teams.txt">
-<thead><tr><th>Team</th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
-<tfoot><tr><th>Team</th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+<div id="tab-TableOfData-Indiv-Open" role="tabpanel" class="tab-pane active">
+<table id="TableOfData-Indiv-Open" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-Open.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-Veterans" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-Veterans" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-Veterans.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-Women" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-Women" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-Women.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-U20" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-U20" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-U20.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-U16" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-U16" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-U16.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-U12" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-U12" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-U12.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-Team_U16" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-Team_U16" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-Team_U16.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-Team_U12" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-Team_U12" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-Team_U12.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
 </table>
 </div>
 </div></div></div></body></html>
