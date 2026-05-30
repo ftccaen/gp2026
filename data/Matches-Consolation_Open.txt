@@ -1,0 +1,17 @@
+﻿{"data": [
+["01 - 1/8 DE FINALE", " ", "M01", "HEYVAERT Jérôme (rww)", "", "-", "", "RAIROUX Christophe (eug)", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M02", "BALARD Jean-François ()", "", "-", "", "GREGOIRE Ralf (hut)", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M03", "CRASSET Mathieu (rww)", "", "-", "", "DE BARROS Amandio ()", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M04", "LECERF Sébastien (cae)", "", "-", "", "CHIAPPETTA Giovanni (chp)", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M05", "ROUIS Abdelmaneum (asc)", "", "-", "", "ABECASSIS Lionel ()", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M06", "GEURTEN Cédric (ste)", "", "-", "", "DUBREUIL Franck (chp)", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M07", "HEUNDERS Benoit (hut)", "", "-", "", "GALICHET Stephane ()", "", "", "-", "", ""],
+["01 - 1/8 DE FINALE", " ", "M08", "DESPRETZ Steffen (hen)", "", "-", "", "ARNOLD Kye (kiv)", "", "", "-", "", ""],
+["02 - 1/4 DE FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""],
+["02 - 1/4 DE FINALE", " ", "M02", "", "", "-", "", "", "", "", "-", "", ""],
+["02 - 1/4 DE FINALE", " ", "M03", "", "", "-", "", "", "", "", "-", "", ""],
+["02 - 1/4 DE FINALE", " ", "M04", "", "", "-", "", "", "", "", "-", "", ""],
+["03 - 1/2 FINALES", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""],
+["03 - 1/2 FINALES", " ", "M02", "", "", "-", "", "", "", "", "-", "", ""],
+["04 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+]}

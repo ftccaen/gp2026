@@ -1,5 +1,5 @@
 ﻿{"data": [
-["1/2 FINALES", "CHAPMAN Hadley (kiv)", "", "-", "", "GALICHET Leeroy ()", "", "", "-", ""],
-["1/2 FINALES", "GROSDENT Robin (wam)", "", "-", "", "GROSDENT Sophia (wam)", "", "", "-", ""],
-["FINALE", "", "", "-", "", "", "", "", "-", ""]
+["1/2 FINALES", "CHAPMAN Hadley (kiv)", "4", "-", "1", "GALICHET Leeroy ()", "", "", "-", ""],
+["1/2 FINALES", "GROSDENT Robin (wam)", "0", "-", "2", "GROSDENT Sophia (wam)", "", "", "-", ""],
+["FINALE", "CHAPMAN Hadley (kiv)", "", "-", "", "GROSDENT Sophia (wam)", "", "", "-", ""]
 ]}

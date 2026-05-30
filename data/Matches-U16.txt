@@ -5,7 +5,7 @@
 ["02 - Poule 02", "R1", "M01", "LEGRAND Mathéo (hen)", "0", "-", "1", "GROSDENT Sophia (wam)", " ", "", "", "", "DE BARROS Amandio ()"],
 ["02 - Poule 02", "R2", "M01", "GALICHET Leeroy ()", "2", "-", "0", "LEGRAND Mathéo (hen)", " ", "", "", "", "VERHOEVEN Lulani (wam)"],
 ["02 - Poule 02", "R3", "M01", "GROSDENT Sophia (wam)", "2", "-", "0", "GALICHET Leeroy ()", " ", "", "", "", "DARMONT Sébastien (hut)"],
-["03 - 1/2 FINALES", " ", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "GALICHET Leeroy ()", "", "", "-", "", ""],
-["03 - 1/2 FINALES", " ", "M02", "GROSDENT Robin (wam)", "", "-", "", "GROSDENT Sophia (wam)", "", "", "-", "", ""],
-["04 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+["03 - 1/2 FINALES", " ", "M01", "CHAPMAN Hadley (kiv)", "4", "-", "1", "GALICHET Leeroy ()", "", "", "-", "", "AUSSET Quentin (chp)"],
+["03 - 1/2 FINALES", " ", "M02", "GROSDENT Robin (wam)", "0", "-", "2", "GROSDENT Sophia (wam)", "", "", "-", "", "CRASSET Mathieu (rww)"],
+["04 - FINALE", " ", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "GROSDENT Sophia (wam)", "", "", "-", "", ""]
 ]}
