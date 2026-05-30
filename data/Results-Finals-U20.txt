@@ -1,5 +1,5 @@
 ﻿{"data": [
-["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
-["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
+["1/2 FINALES", "SORET Louis (hen)", "", "-", "", "MARAIN Benjamin (hen)", "", "", "-", ""],
+["1/2 FINALES", "AUSSET Quentin (chp)", "", "-", "", "MIDOUX Rafaël (hen)", "", "", "-", ""],
 ["FINALE", "", "", "-", "", "", "", "", "-", ""]
 ]}

@@ -1,10 +1,10 @@
 ﻿{"data": [
-["BARRAGES", "JAILLET Laurent (chp)", "", "-", "", "LOAREC Yann (com)", "", "", "-", ""],
-["BARRAGES", "BASTIN Olivier ()", "", "-", "", "ARNOLD Terry (kiv)", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "", "", "", "-", ""],
+["BARRAGES", "JAILLET Laurent (chp)", "0", "-", "1", "LOAREC Yann (com)", "", "", "-", ""],
+["BARRAGES", "BASTIN Olivier ()", "4", "-", "1", "ARNOLD Terry (kiv)", "", "", "-", ""],
+["1/4 DE FINALE", "LOAREC Yann (com)", "1", "-", "1", "JAMIESON Malcolm (kiv)", "", "3", "-", "1"],
+["1/4 DE FINALE", "RADWELL Daryl (kiv)", "3", "-", "0", "SALLE Laurent (com)", "", "", "-", ""],
+["1/4 DE FINALE", "BASTIN Olivier ()", "1", "-", "3", "VIVRON Thierry ()", "", "", "-", ""],
+["1/4 DE FINALE", "MORIER Nicolas ()", "2", "-", "1", "BAHEUX Christophe ()", "", "", "-", ""],
 ["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
 ["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
 ["FINALE", "", "", "-", "", "", "", "", "-", ""]

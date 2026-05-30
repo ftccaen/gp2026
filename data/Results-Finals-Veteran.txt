@@ -1,13 +1,13 @@
 ﻿{"data": [
-["BARRAGES", "MODESTE Axel ()", "", "-", "", "POMMIER Stéphane (cae)", "", "", "-", ""],
-["BARRAGES", "AMBERNY Jean-Marie ()", "", "-", "", "FOUETILLOU Jean-Marie (cae)", "", "", "-", ""],
-["BARRAGES", "MONTEIRO Christophe ()", "", "-", "", "DUBOIS Xavier (cae)", "", "", "-", ""],
-["BARRAGES", "FARZA Skander (com)", "", "-", "", "LIMPENS Fabian (rww)", "", "", "-", ""],
-["1/4 DE FINALE", "SCHEEN Daniel (ste)", "", "-", "", "", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "ROCHEZ Sébastien (ste)", "", "", "-", ""],
-["1/4 DE FINALE", "ANGELINAS Christos (hen)", "", "-", "", "", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "LESNE Thibault ()", "", "", "-", ""],
-["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
-["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
+["BARRAGES", "MODESTE Axel ()", "2", "-", "1", "POMMIER Stéphane (cae)", "", "", "-", ""],
+["BARRAGES", "AMBERNY Jean-Marie ()", "3", "-", "0", "FOUETILLOU Jean-Marie (cae)", "", "", "-", ""],
+["BARRAGES", "MONTEIRO Christophe ()", "0", "-", "1", "DUBOIS Xavier (cae)", "", "", "-", ""],
+["BARRAGES", "FARZA Skander (com)", "2", "-", "1", "LIMPENS Fabian (rww)", "x", "", "-", ""],
+["1/4 DE FINALE", "SCHEEN Daniel (ste)", "5", "-", "1", "FARZA Skander (com)", "", "", "-", ""],
+["1/4 DE FINALE", "MODESTE Axel ()", "2", "-", "1", "ROCHEZ Sébastien (ste)", "", "", "-", ""],
+["1/4 DE FINALE", "ANGELINAS Christos (hen)", "2", "-", "1", "AMBERNY Jean-Marie ()", "", "", "-", ""],
+["1/4 DE FINALE", "DUBOIS Xavier (cae)", "0", "-", "1", "LESNE Thibault ()", "x", "", "-", ""],
+["1/2 FINALES", "SCHEEN Daniel (ste)", "", "-", "", "MODESTE Axel ()", "", "", "-", ""],
+["1/2 FINALES", "ANGELINAS Christos (hen)", "", "-", "", "LESNE Thibault ()", "", "", "-", ""],
 ["FINALE", "", "", "-", "", "", "", "", "-", ""]
 ]}

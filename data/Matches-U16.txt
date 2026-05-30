@@ -7,5 +7,5 @@
 ["02 - Poule 02", "R3", "M01", "GROSDENT Sophia (wam)", "2", "-", "0", "GALICHET Leeroy ()", " ", "", "", "", "DARMONT Sébastien (hut)"],
 ["03 - 1/2 FINALES", " ", "M01", "CHAPMAN Hadley (kiv)", "4", "-", "1", "GALICHET Leeroy ()", "", "", "-", "", "AUSSET Quentin (chp)"],
 ["03 - 1/2 FINALES", " ", "M02", "GROSDENT Robin (wam)", "0", "-", "2", "GROSDENT Sophia (wam)", "", "", "-", "", "CRASSET Mathieu (rww)"],
-["04 - FINALE", " ", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "GROSDENT Sophia (wam)", "", "", "-", "", ""]
+["04 - FINALE", " ", "M01", "CHAPMAN Hadley (kiv)", "2", "-", "1", "GROSDENT Sophia (wam)", "x", "", "-", "", "GROSDENT Jean (wam)"]
 ]}
