@@ -9,5 +9,5 @@
 ["1/4 DE FINALE", "DUBOIS Xavier (cae)", "0", "-", "1", "LESNE Thibault ()", "x", "", "-", ""],
 ["1/2 FINALES", "SCHEEN Daniel (ste)", "2", "-", "0", "MODESTE Axel ()", "", "", "-", ""],
 ["1/2 FINALES", "ANGELINAS Christos (hen)", "3", "-", "2", "LESNE Thibault ()", "x", "", "-", ""],
-["FINALE", "SCHEEN Daniel (ste)", "", "-", "", "ANGELINAS Christos (hen)", "", "", "-", ""]
+["FINALE", "SCHEEN Daniel (ste)", "2", "-", "0", "ANGELINAS Christos (hen)", "", "", "-", ""]
 ]}

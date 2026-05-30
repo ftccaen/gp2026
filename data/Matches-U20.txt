@@ -10,5 +10,5 @@
 ["02 - Poule 02", "R3", "M02", "DIRICK Noah (wam)", "1", "-", "1", "MIDOUX Rafaël (hen)", " ", "", "", "", "BALARD Jean-François ()"],
 ["03 - 1/2 FINALES", " ", "M01", "SORET Louis (hen)", "1", "-", "1", "MARAIN Benjamin (hen)", "", "2", "-", "1", "DUBOIS Xavier (cae)"],
 ["03 - 1/2 FINALES", " ", "M02", "AUSSET Quentin (chp)", "6", "-", "3", "MIDOUX Rafaël (hen)", "", "", "-", "", "POMMIER Raphaël (caa)"],
-["04 - FINALE", " ", "M01", "SORET Louis (hen)", "", "-", "", "AUSSET Quentin (chp)", "", "", "-", "", ""]
+["04 - FINALE", " ", "M01", "SORET Louis (hen)", "4", "-", "3", "AUSSET Quentin (chp)", "", "", "-", "", "LESNE Thibault ()"]
 ]}

@@ -25,5 +25,5 @@
 ["1/4 DE FINALE", "MODESTE Théo (sal)", "1", "-", "5", "DHEUR Christophe (vll)", "", "", "-", ""],
 ["1/2 FINALES", "GOLGER Bessim (bor)", "5", "-", "1", "LEROY David (rts)", "", "", "-", ""],
 ["1/2 FINALES", "DE LEEUW Pierre (rww)", "1", "-", "3", "DHEUR Christophe (vll)", "", "", "-", ""],
-["FINALE", "GOLGER Bessim (bor)", "", "-", "", "DHEUR Christophe (vll)", "", "", "-", ""]
+["FINALE", "GOLGER Bessim (bor)", "1", "-", "3", "DHEUR Christophe (vll)", "", "", "-", ""]
 ]}

@@ -7,5 +7,5 @@
 ["1/4 DE FINALE", "MORIER Nicolas ()", "2", "-", "1", "BAHEUX Christophe ()", "", "", "-", ""],
 ["1/2 FINALES", "LOAREC Yann (com)", "1", "-", "0", "RADWELL Daryl (kiv)", "", "", "-", ""],
 ["1/2 FINALES", "VIVRON Thierry ()", "6", "-", "0", "MORIER Nicolas ()", "", "", "-", ""],
-["FINALE", "VIVRON Thierry ()", "", "-", "", "LOAREC Yann (com)", "", "", "-", ""]
+["FINALE", "VIVRON Thierry ()", "2", "-", "0", "LOAREC Yann (com)", "", "", "-", ""]
 ]}

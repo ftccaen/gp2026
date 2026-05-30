@@ -203,11 +203,11 @@
 ["11", "17:45", "Consolation_Veteran", "SF", "C4", "VIVRON Thierry ()", "MORIER Nicolas ()", "", "6-0"],
 ["11", "17:45", "Consolation_Open", "SF", "D1", "HEYVAERT Jérôme (rww)", "CRASSET Mathieu (rww)", "", "0-0 (2-0)"],
 ["11", "17:45", "Consolation_Open", "SF", "D2", "ABECASSIS Lionel ()", "DESPRETZ Steffen (hen)", "", "0-3"],
-["12", "18:45", "Open", "F", "A1", "GOLGER Bessim (bor)", "DHEUR Christophe (vll)", "MODESTE Axel ()", "-"],
-["12", "18:45", "Veteran", "F", "A2", "SCHEEN Daniel (ste)", "ANGELINAS Christos (hen)", "DE LEEUW Pierre (rww)", "-"],
-["12", "18:45", "Women", "F", "A3", "LINQUERCQ-RIVIÈRE Irène ()", "HERBAUT Audrey (chp)", "MIDOUX Rafaël (hen)", "-"],
-["12", "18:45", "U20", "F", "A4", "SORET Louis (hen)", "AUSSET Quentin (chp)", "LESNE Thibault ()", "-"],
-["12", "18:45", "U12", "F", "B1", "CHAPMAN Hadley (kiv)", "GALICHET Leeroy ()", "MARAIN Benjamin (hen)", "-"],
-["12", "18:45", "Consolation_Veteran", "F", "B2", "VIVRON Thierry ()", "LOAREC Yann (com)", "", "-"],
-["12", "18:45", "Consolation_Open", "F", "B3", "DESPRETZ Steffen (hen)", "CRASSET Mathieu (rww)", "", "-"]
+["12", "18:45", "Open", "F", "A1", "GOLGER Bessim (bor)", "DHEUR Christophe (vll)", "MODESTE Axel ()", "1-3"],
+["12", "18:45", "Veteran", "F", "A2", "SCHEEN Daniel (ste)", "ANGELINAS Christos (hen)", "DE LEEUW Pierre (rww)", "2-0"],
+["12", "18:45", "Women", "F", "A3", "LINQUERCQ-RIVIÈRE Irène ()", "HERBAUT Audrey (chp)", "MIDOUX Rafaël (hen)", "1-0 sd"],
+["12", "18:45", "U20", "F", "A4", "SORET Louis (hen)", "AUSSET Quentin (chp)", "LESNE Thibault ()", "4-3"],
+["12", "18:45", "U12", "F", "B1", "CHAPMAN Hadley (kiv)", "GALICHET Leeroy ()", "MARAIN Benjamin (hen)", "3-2"],
+["12", "18:45", "Consolation_Veteran", "F", "B2", "VIVRON Thierry ()", "LOAREC Yann (com)", "", "2-0"],
+["12", "18:45", "Consolation_Open", "F", "B3", "DESPRETZ Steffen (hen)", "CRASSET Mathieu (rww)", "", "2-0"]
 ]}

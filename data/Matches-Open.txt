@@ -106,5 +106,5 @@
 ["17 - 1/4 DE FINALE", " ", "M04", "MODESTE Théo (sal)", "1", "-", "5", "DHEUR Christophe (vll)", "", "", "-", "", "LOUREIRO Sérgio (fal)"],
 ["18 - 1/2 FINALES", " ", "M01", "GOLGER Bessim (bor)", "5", "-", "1", "LEROY David (rts)", "", "", "-", "", "AVERLANT Matthias (hen)"],
 ["18 - 1/2 FINALES", " ", "M02", "DE LEEUW Pierre (rww)", "1", "-", "3", "DHEUR Christophe (vll)", "", "", "-", "", "RAIROUX Maxime (eug)"],
-["19 - FINALE", " ", "M01", "GOLGER Bessim (bor)", "", "-", "", "DHEUR Christophe (vll)", "", "", "-", "", ""]
+["19 - FINALE", " ", "M01", "GOLGER Bessim (bor)", "1", "-", "3", "DHEUR Christophe (vll)", "", "", "-", "", "MODESTE Axel ()"]
 ]}
