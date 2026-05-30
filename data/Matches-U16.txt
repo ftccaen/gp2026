@@ -1,11 +1,11 @@
 ﻿{"data": [
-["01 - Poule 01", "R1", "M01", "GROSDENT Robin (wam)", "", "-", "", "CHAPMAN Hadley (kiv)", " ", "", "", "", ""],
+["01 - Poule 01", "R1", "M01", "GROSDENT Robin (wam)", "1", "-", "2", "CHAPMAN Hadley (kiv)", " ", "", "", "", "JAILLET Laurent (chp)"],
 ["01 - Poule 01", "R2", "M01", "BLAIRVACQ Nicola (hen)", "", "-", "", "GROSDENT Robin (wam)", " ", "", "", "", ""],
 ["01 - Poule 01", "R3", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "BLAIRVACQ Nicola (hen)", " ", "", "", "", ""],
 ["02 - Poule 02", "R1", "M01", "LEGRAND Mathéo (hen)", "", "-", "", "GROSDENT Sophia (wam)", " ", "", "", "", ""],
 ["02 - Poule 02", "R2", "M01", "GALICHET Leeroy ()", "", "-", "", "LEGRAND Mathéo (hen)", " ", "", "", "", ""],
 ["02 - Poule 02", "R3", "M01", "GROSDENT Sophia (wam)", "", "-", "", "GALICHET Leeroy ()", " ", "", "", "", ""],
-["03 - 1/2 FINALES", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""],
-["03 - 1/2 FINALES", " ", "M02", "", "", "-", "", "", "", "", "-", "", ""],
+["03 - 1/2 FINALES", " ", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "", "", "", "-", "", ""],
+["03 - 1/2 FINALES", " ", "M02", "BLAIRVACQ Nicola (hen)", "", "-", "", "", "", "", "-", "", ""],
 ["04 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
 ]}
