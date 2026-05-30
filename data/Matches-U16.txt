@@ -1,7 +1,7 @@
 ﻿{"data": [
 ["01 - Poule 01", "R1", "M01", "GROSDENT Robin (wam)", "1", "-", "2", "CHAPMAN Hadley (kiv)", " ", "", "", "", "JAILLET Laurent (chp)"],
 ["01 - Poule 01", "R2", "M01", "BLAIRVACQ Nicola (hen)", "1", "-", "2", "GROSDENT Robin (wam)", " ", "", "", "", "SALLE Laurent (com)"],
-["01 - Poule 01", "R3", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "BLAIRVACQ Nicola (hen)", " ", "", "", "", ""],
+["01 - Poule 01", "R3", "M01", "CHAPMAN Hadley (kiv)", "3", "-", "0", "BLAIRVACQ Nicola (hen)", " ", "", "", "", "SALLE Laurent (com)"],
 ["02 - Poule 02", "R1", "M01", "LEGRAND Mathéo (hen)", "0", "-", "1", "GROSDENT Sophia (wam)", " ", "", "", "", "DE BARROS Amandio ()"],
 ["02 - Poule 02", "R2", "M01", "GALICHET Leeroy ()", "2", "-", "0", "LEGRAND Mathéo (hen)", " ", "", "", "", "VERHOEVEN Lulani (wam)"],
 ["02 - Poule 02", "R3", "M01", "GROSDENT Sophia (wam)", "", "-", "", "GALICHET Leeroy ()", " ", "", "", "", ""],
