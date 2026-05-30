@@ -5,7 +5,7 @@
 ["1/4 DE FINALE", "RADWELL Daryl (kiv)", "3", "-", "0", "SALLE Laurent (com)", "", "", "-", ""],
 ["1/4 DE FINALE", "BASTIN Olivier ()", "1", "-", "3", "VIVRON Thierry ()", "", "", "-", ""],
 ["1/4 DE FINALE", "MORIER Nicolas ()", "2", "-", "1", "BAHEUX Christophe ()", "", "", "-", ""],
-["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
-["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
-["FINALE", "", "", "-", "", "", "", "", "-", ""]
+["1/2 FINALES", "LOAREC Yann (com)", "1", "-", "0", "RADWELL Daryl (kiv)", "", "", "-", ""],
+["1/2 FINALES", "VIVRON Thierry ()", "6", "-", "0", "MORIER Nicolas ()", "", "", "-", ""],
+["FINALE", "VIVRON Thierry ()", "", "-", "", "LOAREC Yann (com)", "", "", "-", ""]
 ]}

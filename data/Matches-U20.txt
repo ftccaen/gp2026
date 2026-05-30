@@ -8,7 +8,7 @@
 ["02 - Poule 02", "R2", "M02", "MIDOUX Rafaël (hen)", "4", "-", "1", "GROSDENT Robin (wam)", " ", "", "", "", ""],
 ["02 - Poule 02", "R3", "M01", "GROSDENT Robin (wam)", "1", "-", "4", "MARAIN Benjamin (hen)", " ", "", "", "", "SAGIT Olivier (cae)"],
 ["02 - Poule 02", "R3", "M02", "DIRICK Noah (wam)", "1", "-", "1", "MIDOUX Rafaël (hen)", " ", "", "", "", "BALARD Jean-François ()"],
-["03 - 1/2 FINALES", " ", "M01", "SORET Louis (hen)", "", "-", "", "MARAIN Benjamin (hen)", "", "", "-", "", ""],
-["03 - 1/2 FINALES", " ", "M02", "AUSSET Quentin (chp)", "", "-", "", "MIDOUX Rafaël (hen)", "", "", "-", "", ""],
-["04 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+["03 - 1/2 FINALES", " ", "M01", "SORET Louis (hen)", "1", "-", "1", "MARAIN Benjamin (hen)", "", "2", "-", "1", "DUBOIS Xavier (cae)"],
+["03 - 1/2 FINALES", " ", "M02", "AUSSET Quentin (chp)", "6", "-", "3", "MIDOUX Rafaël (hen)", "", "", "-", "", "POMMIER Raphaël (caa)"],
+["04 - FINALE", " ", "M01", "SORET Louis (hen)", "", "-", "", "AUSSET Quentin (chp)", "", "", "-", "", ""]
 ]}

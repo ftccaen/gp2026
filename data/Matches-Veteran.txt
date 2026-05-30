@@ -40,7 +40,7 @@
 ["08 - 1/4 DE FINALE", " ", "M02", "MODESTE Axel ()", "2", "-", "1", "ROCHEZ Sébastien (ste)", "", "", "-", "", "COQUILLON Fanch (com)"],
 ["08 - 1/4 DE FINALE", " ", "M03", "ANGELINAS Christos (hen)", "2", "-", "1", "AMBERNY Jean-Marie ()", "", "", "-", "", "PONTHIEUX Ludovic (ste)"],
 ["08 - 1/4 DE FINALE", " ", "M04", "DUBOIS Xavier (cae)", "0", "-", "1", "LESNE Thibault ()", "x", "", "-", "", "MARAIN Geoffrey (hen)"],
-["09 - 1/2 FINALES", " ", "M01", "SCHEEN Daniel (ste)", "", "-", "", "MODESTE Axel ()", "", "", "-", "", ""],
-["09 - 1/2 FINALES", " ", "M02", "ANGELINAS Christos (hen)", "", "-", "", "LESNE Thibault ()", "", "", "-", "", ""],
-["10 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+["09 - 1/2 FINALES", " ", "M01", "SCHEEN Daniel (ste)", "2", "-", "0", "MODESTE Axel ()", "", "", "-", "", "LAURENT Joffray (eug)"],
+["09 - 1/2 FINALES", " ", "M02", "ANGELINAS Christos (hen)", "3", "-", "2", "LESNE Thibault ()", "x", "", "-", "", "FARZA Skander (com)"],
+["10 - FINALE", " ", "M01", "SCHEEN Daniel (ste)", "", "-", "", "ANGELINAS Christos (hen)", "", "", "-", "", ""]
 ]}

@@ -11,7 +11,7 @@
 ["02 - 1/4 DE FINALE", " ", "M02", "CRASSET Mathieu (rww)", "1", "-", "0", "LECERF Sébastien (cae)", "", "", "-", "", ""],
 ["02 - 1/4 DE FINALE", " ", "M03", "ABECASSIS Lionel ()", "3", "-", "1", "GEURTEN Cédric (ste)", "", "", "-", "", ""],
 ["02 - 1/4 DE FINALE", " ", "M04", "GALICHET Stephane ()", "1", "-", "3", "DESPRETZ Steffen (hen)", "", "", "-", "", ""],
-["03 - 1/2 FINALES", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""],
-["03 - 1/2 FINALES", " ", "M02", "", "", "-", "", "", "", "", "-", "", ""],
-["04 - FINALE", " ", "M01", "", "", "-", "", "", "", "", "-", "", ""]
+["03 - 1/2 FINALES", " ", "M01", "HEYVAERT Jérôme (rww)", "0", "-", "0", "CRASSET Mathieu (rww)", "", "2", "-", "0", ""],
+["03 - 1/2 FINALES", " ", "M02", "ABECASSIS Lionel ()", "0", "-", "3", "DESPRETZ Steffen (hen)", "", "", "-", "", ""],
+["04 - FINALE", " ", "M01", "DESPRETZ Steffen (hen)", "", "-", "", "CRASSET Mathieu (rww)", "", "", "-", "", ""]
 ]}

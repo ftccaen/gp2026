@@ -3,7 +3,7 @@
 ["01 - Poule 01", "R1", "M02", "LEGRAND Mathéo (hen)", "0", "-", "2", "BLAIRVACQ Nicola (hen)", " ", "", "", "", ""],
 ["01 - Poule 01", "R2", "M01", "CHAPMAN Hadley (kiv)", "6", "-", "0", "BLAIRVACQ Nicola (hen)", " ", "", "", "", "ARNOLD Terry (kiv)"],
 ["01 - Poule 01", "R2", "M02", "GALICHET Leeroy ()", "2", "-", "0", "LEGRAND Mathéo (hen)", " ", "", "", "", "CHIAPPETTA Giovanni (chp)"],
-["01 - Poule 01", "R3", "M01", "LEGRAND Mathéo (hen)", "", "-", "", "CHAPMAN Hadley (kiv)", " ", "", "", "", ""],
-["01 - Poule 01", "R3", "M02", "BLAIRVACQ Nicola (hen)", "", "-", "", "GALICHET Leeroy ()", " ", "", "", "", ""],
+["01 - Poule 01", "R3", "M01", "LEGRAND Mathéo (hen)", "0", "-", "4", "CHAPMAN Hadley (kiv)", " ", "", "", "", "GROSDENT Maxim (wam)"],
+["01 - Poule 01", "R3", "M02", "BLAIRVACQ Nicola (hen)", "0", "-", "3", "GALICHET Leeroy ()", " ", "", "", "", "DIRICK Noah (wam)"],
 ["02 - FINALE", " ", "M01", "CHAPMAN Hadley (kiv)", "", "-", "", "GALICHET Leeroy ()", "", "", "-", "", ""]
 ]}

@@ -3,7 +3,7 @@
 ["01 - Poule 01", "R1", "M02", "POUPART Lea (com)", "0", "-", "4", "LINQUERCQ-RIVIÈRE Irène ()", " ", "", "", "", ""],
 ["01 - Poule 01", "R2", "M01", "LINQUERCQ-RIVIÈRE Irène ()", "3", "-", "1", "HERBAUT Audrey (chp)", " ", "", "", "", "POMMIER Stéphane (cae)"],
 ["01 - Poule 01", "R2", "M02", "VERHOEVEN Lulani (wam)", "0", "-", "3", "POUPART Lea (com)", " ", "", "", "", "SEGERS Jann (hen)"],
-["01 - Poule 01", "R3", "M01", "HERBAUT Audrey (chp)", "", "-", "", "POUPART Lea (com)", " ", "", "", "", ""],
-["01 - Poule 01", "R3", "M02", "LINQUERCQ-RIVIÈRE Irène ()", "", "-", "", "VERHOEVEN Lulani (wam)", " ", "", "", "", ""],
+["01 - Poule 01", "R3", "M01", "HERBAUT Audrey (chp)", "5", "-", "0", "POUPART Lea (com)", " ", "", "", "", "MODESTE Théo (sal)"],
+["01 - Poule 01", "R3", "M02", "LINQUERCQ-RIVIÈRE Irène ()", "7", "-", "1", "VERHOEVEN Lulani (wam)", " ", "", "", "", "ROCHEZ Sébastien (ste)"],
 ["02 - FINALE", " ", "M01", "LINQUERCQ-RIVIÈRE Irène ()", "", "-", "", "HERBAUT Audrey (chp)", "", "", "-", "", ""]
 ]}

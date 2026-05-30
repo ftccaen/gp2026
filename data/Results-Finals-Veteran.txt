@@ -7,7 +7,7 @@
 ["1/4 DE FINALE", "MODESTE Axel ()", "2", "-", "1", "ROCHEZ Sébastien (ste)", "", "", "-", ""],
 ["1/4 DE FINALE", "ANGELINAS Christos (hen)", "2", "-", "1", "AMBERNY Jean-Marie ()", "", "", "-", ""],
 ["1/4 DE FINALE", "DUBOIS Xavier (cae)", "0", "-", "1", "LESNE Thibault ()", "x", "", "-", ""],
-["1/2 FINALES", "SCHEEN Daniel (ste)", "", "-", "", "MODESTE Axel ()", "", "", "-", ""],
-["1/2 FINALES", "ANGELINAS Christos (hen)", "", "-", "", "LESNE Thibault ()", "", "", "-", ""],
-["FINALE", "", "", "-", "", "", "", "", "-", ""]
+["1/2 FINALES", "SCHEEN Daniel (ste)", "2", "-", "0", "MODESTE Axel ()", "", "", "-", ""],
+["1/2 FINALES", "ANGELINAS Christos (hen)", "3", "-", "2", "LESNE Thibault ()", "x", "", "-", ""],
+["FINALE", "SCHEEN Daniel (ste)", "", "-", "", "ANGELINAS Christos (hen)", "", "", "-", ""]
 ]}
