@@ -2,11 +2,11 @@
 ["BARRAGES", "MODESTE Axel ()", "", "-", "", "POMMIER Stéphane (cae)", "", "", "-", ""],
 ["BARRAGES", "AMBERNY Jean-Marie ()", "", "-", "", "FOUETILLOU Jean-Marie (cae)", "", "", "-", ""],
 ["BARRAGES", "MONTEIRO Christophe ()", "", "-", "", "DUBOIS Xavier (cae)", "", "", "-", ""],
-["BARRAGES", "!!! EQUALITY !!!", "", "-", "", "LIMPENS Fabian (rww)", "", "", "-", ""],
+["BARRAGES", "FARZA Skander (com)", "", "-", "", "LIMPENS Fabian (rww)", "", "", "-", ""],
 ["1/4 DE FINALE", "SCHEEN Daniel (ste)", "", "-", "", "", "", "", "-", ""],
 ["1/4 DE FINALE", "", "", "-", "", "ROCHEZ Sébastien (ste)", "", "", "-", ""],
 ["1/4 DE FINALE", "ANGELINAS Christos (hen)", "", "-", "", "", "", "", "-", ""],
-["1/4 DE FINALE", "", "", "-", "", "!!! EQUALITY !!!", "", "", "-", ""],
+["1/4 DE FINALE", "", "", "-", "", "LESNE Thibault ()", "", "", "-", ""],
 ["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
 ["1/2 FINALES", "", "", "-", "", "", "", "", "-", ""],
 ["FINALE", "", "", "-", "", "", "", "", "-", ""]
